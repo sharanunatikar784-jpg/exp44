@@ -1,2 +1,6 @@
 this is the origin file.
+
 remote developer added this line.
+
+Local developer added this line
+
