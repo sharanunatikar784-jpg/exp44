@@ -1,6 +1,9 @@
 this is the origin file.
+HEAD
 
 remote developer added this line.
 
 Local developer added this line
 
+Local developer added this line.
+ fb6bf77 (Local developer update)
